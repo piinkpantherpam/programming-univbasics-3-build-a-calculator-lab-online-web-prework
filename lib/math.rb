@@ -24,6 +24,6 @@ num1%num2
 end
 
 def square_root(num)
-  p[num1, Math.sqrt(num1)]
+
 
 end
